@@ -4,7 +4,7 @@
 
 ## 1. Introducción
 
-La digitalización se ha convertido en un factor clave para la competitividad de las empresas en la actual economía global.  
+La digitalización se  ha convertido en un factor clave para la competitividad de las empresas en la actual economía global.  
 Este proceso implica la **adopción de tecnologías digitales** que permiten transformar procesos, productos y modelos de negocio.  
 En este documento se describen las principales **tecnologías habilitadoras digitales**, sus características y aplicaciones prácticas
 en diferentes sectores productivos.
